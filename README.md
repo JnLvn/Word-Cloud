@@ -13,7 +13,7 @@ A word cloud is drawn to a png image.
 
 ##To Run Program
 
-Run worldcloud.jar from command line.
+Run wordcloud.jar from command line.
 
 John Lavin
 g00192754@gmail.ie 
