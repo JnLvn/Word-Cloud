@@ -19,4 +19,4 @@ A word cloud is drawn to a png image.
 Run wordcloud.jar from command line.
 
 John Lavin
-g00192754@gmail.ie 
+g00192754@gmit.ie 
